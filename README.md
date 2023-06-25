@@ -1,8 +1,8 @@
 <h1>Oiii! eu sou o Lucas Nather.</h1>
 
 
-- 🔭 Atualmente procurando emprego como Desenvovedor Front-End
-- 🌱 Aprendendo ReactJs e TypeScript
+- 🔭 Estudante de Ciências da computação
+- 🌱 Foco em ser Desenvolvedor FullStack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
